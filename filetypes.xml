@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="array" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="CLASS" />
       <mapping pattern="arr" type="JAVA" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
